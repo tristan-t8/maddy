@@ -102,14 +102,3 @@ If email clients cannot connect, check:
 4. The mailbox exists and the login credentials are correct.
 5. Maddy logs show no authentication, storage, or connection errors.
 6. IMAP and SMTP services are enabled and configured correctly.
-
-## References
-
-- [Maddy Official Website](https://maddy.email/)
-- [Maddy Documentation](https://maddy.email/reference/)
-- [IMAP Protocol — RFC 9051](https://www.rfc-editor.org/rfc/rfc9051)
-- [SMTP Protocol — RFC 5321](https://www.rfc-editor.org/rfc/rfc5321)
-
-## License
-
-Refer to the applicable license for Maddy and any additional software used in this deployment.
